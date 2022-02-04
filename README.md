@@ -1,8 +1,8 @@
-**Project 2
+# Project 2
 
-**Kubernetes based Continuous Delivery
+## Kubernetes based Continuous Delivery
 
-**Objectives
+### Objectives
 
 Create a customized Docker container from the current version of Python that deploys a simple python script.
 Push image to DockerHub, or Cloud based Container Registery (ECR)
