@@ -1,5 +1,3 @@
-# Project 2
-
 ## Kubernetes based Continuous Delivery
 
 ### Objectives
