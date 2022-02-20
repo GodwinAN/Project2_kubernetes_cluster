@@ -18,7 +18,7 @@
 7) Copy and paste and run instructions into cloud9
 8) Image should be successfully added to ECR repository created
 
-#### Deploying image through Fagate and EKS
+#### Deploying image through Fagate and Amazon Elastic Kubernetes services (EKS)
 1) Create clusters
 2) Create load balancer
 3) Create target group
