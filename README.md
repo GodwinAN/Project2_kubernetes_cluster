@@ -26,7 +26,7 @@
 5) Edit security group for external access
 6) Access BMI calculator through FASTAPI Swagger UI : http://bmi-load-balance-903337452.us-east-1.elb.amazonaws.com/docs#/default/bmi_calculator_bmi_calculator__weight___height__get
 
-######### ![BMI calc](https://user-images.githubusercontent.com/89367409/154834641-e2741601-7355-4e0d-b180-cf4df06577ea.png)
+![BMI calc](https://user-images.githubusercontent.com/89367409/154834641-e2741601-7355-4e0d-b180-cf4df06577ea.png)
 
 
 
